@@ -1,0 +1,57 @@
+table, th, td {
+  border: 2px solid white;
+  width:100% ;
+}
+td {
+	width="50%";
+	font-size: 20px;
+}
+table {
+  table-layout: fixed;
+}
+#tt {
+  color:white;
+
+	
+}
+.center {
+	
+	  width:100% ;
+
+  margin: auto;
+    text-align: center;
+
+  padding: 10px;
+}
+
+
+#map {
+}
+* {
+  margin: 0;
+}
+
+  
+
+	
+
+        @media (min-width: 992px) { 
+#ssssssss{
+	height="700px";
+
+}
+
+#tt {
+	width:38%;
+	display: inline-block; 
+	vertical-align: 350px;
+  color:white;
+
+	
+}
+#map {
+	height=700px;
+	width:60%;display: inline-block;
+}
+
+		}
